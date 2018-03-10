@@ -1,2 +1,4 @@
 
 BAL = "countries/Baltic.txt"
+TCA = "countries/Transcaucasia.txt"
+TKS = "countries/Turkestan.txt"

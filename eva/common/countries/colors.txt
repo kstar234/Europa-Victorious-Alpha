@@ -528,3 +528,12 @@ BAL = {
 }
 
 
+
+TCA = {
+color = rgb { 103 113 211 }
+color_ui = rgb { 103 113 211 }
+}
+TKS = {
+color = rgb { 188 103 123 }
+color_ui = rgb { 188 103 123 }
+}
