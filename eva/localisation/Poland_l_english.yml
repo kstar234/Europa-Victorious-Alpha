@@ -1,0 +1,46 @@
+﻿l_english:
+ ##############COUNTRY NAME##############
+ POL_nationalist_communist:0 "Polish People's Republic"
+ POL_nationalist_communist_DEF:0 "The Polish People's Republic"
+ POL_nationalist_communist_ADJ:0 "Polish"
+ POL_communism:0 "Polish Revolutionary Socialist Republic"
+ POL_communism_DEF:0 "Polish RSR"
+ POL_communism_ADJ:0 "Polish"
+ POL_internationalism:0 "Globalist Poland"
+ POL_internationalism_DEF:0 "Globalist Poland"
+ POL_internationalism_ADJ:0 "Polish"
+ POL_socialism:0 "Polish Socialist Republic"
+ POL_socialism_DEF:0 "The Polish Socialist Republic"
+ POL_socialism_ADJ:0 "Polish"
+ POL_liberal:0 "Republic of Poland"
+ POL_liberal_DEF:0 "The Republic of Poland"
+ POL_liberal_ADJ:0 "Polish"
+ POL_democratic:0 "Republic of Poland"
+ POL_democratic_DEF:0 "The Republic of Poland"
+ POL_democratic_ADJ:0 "Polish"
+ POL_conservative:0 "Republic of Poland"
+ POL_conservative_DEF:0 "The Republic of Poland"
+ POL_conservative_ADJ:0 "Polish"
+ POL_rightwing_democrat:0 "Republic of Poland"
+ POL_rightwing_democrat_DEF:0 "The Republic of Poland"
+ POL_rightwing_democrat_ADJ:0 "Polish"
+ POL_neutrality:0 "Poland"
+ POL_neutrality_ADJ:0 "Polish"
+ POL_neutrality_DEF:0 "Poland"
+ POL_monarchist:0 "Kingdom of Poland"
+ POL_monarchist_ADJ:0 "Polish"
+ POL_monarchist_DEF:0 "The Kingdom of Poland"
+ POL_theocracy:0 "Catholic State of Poland"
+ POL_theocracy_DEF:0 "The Catholic State of Poland"
+ POL_theocracy_ADJ:0 "Polish"
+ POL_fascism:0 "Polish State"
+ POL_fascism_DEF:0 "The Polish State"
+ POL_fascism_ADJ:0 "Polish"
+ 
+ #######PARTIES#######
+
+ ############EVENTS###################
+ ############FOCUSES###################
+ ############DECISIONS###############
+ ############MISC###################
+ 

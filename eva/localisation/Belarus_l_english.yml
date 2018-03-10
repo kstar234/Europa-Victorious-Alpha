@@ -1,0 +1,46 @@
+﻿l_english:
+ ##############COUNTRY NAME##############
+ BLR_nationalist_communist:0 "Belarusian Commune"
+ BLR_nationalist_communist_DEF:0 "The Belarusian Commune"
+ BLR_nationalist_communist_ADJ:0 "Belarusian"
+ BLR_communism:0 "Belarusian Revolutionary Republic"
+ BLR_communism_DEF:0 "Belarusian RR"
+ BLR_communism_ADJ:0 "Belarusian"
+ BLR_internationalism:0 "Globalist Belarus"
+ BLR_internationalism_DEF:0 "Globalist Belarus"
+ BLR_internationalism_ADJ:0 "Belarusian"
+ BLR_socialism:0 "Belarusian Socialist Republic"
+ BLR_socialism_DEF:0 "The Belarusian Socialist Republic"
+ BLR_socialism_ADJ:0 "Belarusian"
+ BLR_liberal:0 "Republic of Belarus"
+ BLR_liberal_DEF:0 "The Republic of Belarus"
+ BLR_liberal_ADJ:0 "Belarusian"
+ BLR_democratic:0 "Republic of Belarus"
+ BLR_democratic_DEF:0 "The Republic of Belarus"
+ BLR_democratic_ADJ:0 "Belarusian"
+ BLR_conservative:0 "Republic of Belarus"
+ BLR_conservative_DEF:0 "The Republic of Belarus"
+ BLR_conservative_ADJ:0 "Belarusian"
+ BLR_rightwing_democrat:0 "Republic of Belarus"
+ BLR_rightwing_democrat_DEF:0 "The Republic of Belarus"
+ BLR_rightwing_democrat_ADJ:0 "Belarusian"
+ BLR_neutrality:0 "Belarus"
+ BLR_neutrality_ADJ:0 "Belarusian"
+ BLR_neutrality_DEF:0 "Belarus"
+ BLR_monarchist:0 "Kingdom of Belarus"
+ BLR_monarchist_ADJ:0 "Belarusian"
+ BLR_monarchist_DEF:0 "The Kingdom of Belarus"
+ BLR_theocracy:0 "Orthodox State of Belarus"
+ BLR_theocracy_DEF:0 "The Orthodox State of Belarus"
+ BLR_theocracy_ADJ:0 "Belarusian"
+ BLR_fascism:0 "Belarusian State"
+ BLR_fascism_DEF:0 "The Belarusian State"
+ BLR_fascism_ADJ:0 "Belarusian"
+ 
+ #######PARTIES#######
+
+ ############EVENTS###################
+ ############FOCUSES###################
+ ############DECISIONS###############
+ ############MISC###################
+ 
