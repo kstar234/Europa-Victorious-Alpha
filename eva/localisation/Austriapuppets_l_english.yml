@@ -1,0 +1,68 @@
+﻿l_english:
+ ##############COUNTRY NAME##############
+
+
+ #######PARTIES#######
+ RHI_nationalist_communist_party:0 "NKPR"
+ RHI_communism_party:0 "LA"
+ RHI_internationalism_party:0 "IU"
+ RHI_socialism_party:0 "SRP"
+ RHI_neutrality_party:0 "AP"
+ RHI_liberal_party:0 "RA"
+ RHI_conservative_party:0 "KMP"
+ RHI_democratic_party:0 "ZR"
+ RHI_fascism_party:0 "RFP"
+ RHI_monarchist_party:0 "Habsburg-Lothringen"
+ RHI_rightwing_democrat_party:0 "WRA"
+ RHI_theocracy_party:0 "EKR"
+ RHI_nationalist_communist_party_long:0 "Nationale Kommunistische Partei Rheinland"
+ RHI_communism_party_long:0 "Linke Allianz"
+ RHI_internationalism_party_long:0 "Internationalistische Union"
+ RHI_socialism_party_long:0 "Sozialistische Rheinpartei"
+ RHI_neutrality_party_long:0 ""
+ RHI_liberal_party_long:0 "Republikanische Allianz"
+ RHI_conservative_party_long:0 "Konstitutionelle Monarchistische Partei"
+ RHI_democratic_party_long:0 "Zentrumspartei Rheinland"
+ RHI_fascism_party_long:0 "Rhein-Freiheitspartei"
+ RHI_monarchist_party_long:0 "House of Habsburg-Lothringen"
+ RHI_rightwing_democrat_party_long:0 "Weit-Rechts-Allianz"
+ RHI_theocracy_party_long:0 "Evangelische Kirche Rheinland"
+ RHI_AUS_autonomy_imperial_state:0 "Imperial Rhine State"
+ RHI_AUS_autonomy_autonomous_region:0 "Rhine Protectorate"
+ RHI_AUS_autonomy_autonomous_state:0 "State of Rhineland"
+ RHI_AUS_autonomy_autonomous_territory:0 "Territory of Rhineland"
+ ##########################################
+ WUR_nationalist_communist_party:0 "NKPW"
+ WUR_communism_party:0 "WLA"
+ WUR_internationalism_party:0 "GUW"
+ WUR_socialism_party:0 "SPW"
+ WUR_neutrality_party:0 "Wurttemberg Restorationists"
+ WUR_liberal_party:0 "LPW"
+ WUR_conservative_party:0 "KPW"
+ WUR_democratic_party:0 "ZW"
+ WUR_fascism_party:0 "WNP"
+ WUR_monarchist_party:0 "Habsburg-Lothringen"
+ WUR_rightwing_democrat_party:0 "NDP"
+ WUR_theocracy_party:0 "EKW"
+ WUR_nationalist_communist_party_long:0 "Nationale Kommunistische Partei Württemberg"
+ WUR_communism_party_long:0 "Weit linke Allianz"
+ WUR_internationalism_party_long:0 "Globalistische Union Württemberg"
+ WUR_socialism_party_long:0 "Sozialistische Partei Württemberg"
+ WUR_neutrality_party_long:0 "Württembergische Restaurationisten"
+ WUR_liberal_party_long:0 "Liberale Partei Württemberg"
+ WUR_conservative_party_long:0 "Konservative Partei Württemberg"
+ WUR_democratic_party_long:0 "Zentrumspartei Württemberg"
+ WUR_fascism_party_long:0 "Württemberg Nationalistische Partei"
+ WUR_monarchist_party_long:0 "House of Habsburg-Lothringen"
+ WUR_rightwing_democrat_party_long:0 "Nationaldemokratische Partei"
+ WUR_theocracy_party_long:0 "Evangelische Kirche Württemberg"
+ WUR_AUS_autonomy_imperial_state:0 "Wurttemberg Imperial State"
+ WUR_AUS_autonomy_autonomous_region:0 "Wurttemberg Protectorate"
+ WUR_AUS_autonomy_autonomous_state:0 "State of Wurttemberg"
+ WUR_AUS_autonomy_autonomous_territory:0 "Territory of Wurttemberg"
+
+ ############EVENTS###################
+ ############FOCUSES###################
+ ############DECISIONS###############
+ ############MISC###################
+ 

@@ -1,0 +1,39 @@
+﻿l_english:
+ ##############COUNTRY NAME##############
+
+ AUS_monarchist:0 "Austrian Empire"
+ AUS_monarchist_DEF:0 "The Austrian Empire"
+ AUS_monarchist_ADJ:0 "Austrian"
+
+
+ #######PARTIES#######
+ AUS_nationalist_communist_party:0 "NKPÖ"
+ AUS_communism_party:0 "LA"
+ AUS_internationalism_party:0 "GU"
+ AUS_socialism_party:0 "BDS"
+ AUS_neutrality_party:0 "GDVP"
+ AUS_liberal_party:0 "SDAPÖ"
+ AUS_conservative_party:0 "CP"
+ AUS_democratic_party:0 "KP"
+ AUS_fascism_party:0 "VF"
+ AUS_monarchist_party:0 "Habsburg-Lothringen"
+ AUS_rightwing_democrat_party:0 "VdU"
+ AUS_theocracy_party:0 "CSFP"
+ AUS_nationalist_communist_party_long:0 "Nationale Kommunistische Partei Österreichs"
+ AUS_communism_party_long:0 "Linke Allianz"
+ AUS_internationalism_party_long:0 "Globalistische Union"
+ AUS_socialism_party_long:0 "Bund Demokratischer Sozialisten"
+ AUS_neutrality_party_long:0 "Großdeutsche Volkspartei"
+ AUS_liberal_party_long:0 "Sozialdemokratische Partei Österreichs"
+ AUS_conservative_party_long:0 "Christlichsoziale Partei"
+ AUS_democratic_party_long:0 "Konstitutionelle Partei"
+ AUS_fascism_party_long:0 "Vaterländische Front"
+ AUS_monarchist_party_long:0 "House of Habsburg-Lothringen"
+ AUS_rightwing_democrat_party_long:0 "Verband der Unabhängigen"
+ AUS_theocracy_party_long:0 "Christliche Social-Falange Partei"
+
+ ############EVENTS###################
+ ############FOCUSES###################
+ ############DECISIONS###############
+ ############MISC###################
+ 
