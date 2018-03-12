@@ -537,3 +537,12 @@ TKS = {
 color = rgb { 188 103 123 }
 color_ui = rgb { 188 103 123 }
 }
+WUR = {
+color = rgb { 111 162 128 }
+color_ui = rgb { 111 162 128 }
+}
+
+RHI = {
+color = rgb { 94  195  101 }
+color_ui = rgb { 94  195  101 }
+}
