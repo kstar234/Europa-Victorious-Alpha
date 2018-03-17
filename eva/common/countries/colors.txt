@@ -546,3 +546,23 @@ RHI = {
 color = rgb { 94  195  101 }
 color_ui = rgb { 94  195  101 }
 }
+TUS = {
+color = rgb { 84 96 136 }
+color_ui = rgb { 84 96 136 }
+}
+PAP = {
+color = rgb { 211 220 178 }
+color_ui = rgb { 211 220 178 }
+}
+SIC = {
+color = rgb { 73 152 76 }
+color_ui = rgb { 73 152 76 }
+}
+SAR = {
+color = rgb { 117 156 167 }
+color_ui = rgb { 117 156 167 }
+}
+LOV = {
+color = rgb { 0 143 0 }
+color_ui = rgb { 0 143 0 }
+}
