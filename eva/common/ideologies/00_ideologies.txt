@@ -152,6 +152,9 @@ ideologies = {
 			libertarian_socialism = {
 			}
 
+			socialism = {
+			}
+
 		}
 		
 		dynamic_faction_names = {
@@ -230,6 +233,7 @@ ideologies = {
 		}
 
 	}
+
 	democratic = {    #######C ENTRISM ############
 		
 		types = {
@@ -242,46 +246,8 @@ ideologies = {
 
 			constitutionalist = { ###For Disney######
 			}
-		}
-		
-		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
-		}
-		
-		color = { 128 128 128 }
-		
-		war_impact_on_world_tension = 0.75		
-		faction_impact_on_world_tension = 0.5
 
-		
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = yes
-		}
-		
-		modifiers = {
-			puppet_cost_factor = -0.3
-		}
-		
-		faction_modifiers = {
-			
-		}
-
-	}
-
-	conservative = {
-		
-		types = {
-		
-			social_conservative = {
-			}
-			
-			traditional_conservative = {
+			conservatism = {
 			}
 		}
 		
@@ -372,6 +338,12 @@ ideologies = {
 			
 			junta = {
 			}
+
+			theocratic = {
+			}
+
+			despotism = {
+			}
 		}
 
 		dynamic_faction_names = {
@@ -438,65 +410,6 @@ ideologies = {
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
 	
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = yes
-		}
-		
-		modifiers = {
-			puppet_cost_factor = -0.3
-		}
-		
-		faction_modifiers = {
-			
-		}
-
-	}
-
-	theocracy = {
-		
-		types = {
-
-			christian = {
-			}
-
-			sunni = {
-			}
-
-			shia = {
-			}
-
-			hindu = {
-			}
-
-			judaism = {
-			}
-
-			buddhist = {
-			}
-
-			catholic = {
-			}
-
-			sikh = {
-			}
-
-		}
-		
-		dynamic_faction_names = {
-			"FACTION_NAME_THEOCRACY_1"
-			"FACTION_NAME_THEOCRACY_2"
-			"FACTION_NAME_THEOCRACY_3"
-			"FACTION_NAME_THEOCRACY_4"
-			"FACTION_NAME_THEOCRACY_5"
-		}
-		
-		color = { 255 255 255 }
-		
-		war_impact_on_world_tension = 0.75		#Commie less threatening
-		faction_impact_on_world_tension = 0.5
-
 		rules = {
 			can_force_government = no
 			can_send_volunteers = yes
