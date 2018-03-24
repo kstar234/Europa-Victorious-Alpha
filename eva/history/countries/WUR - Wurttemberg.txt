@@ -25,7 +25,7 @@ set_politics = {
 			popularity = 48
 		}
 
-		conservative = {
+		rightwing_democrat = {
 			popularity = 1
 		}
 		

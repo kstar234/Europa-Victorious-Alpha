@@ -44,7 +44,7 @@ set_politics = {
 			popularity = 50
 		}
 
-		conservative = {
+		democratic = {
 			popularity = 28
 		}
 

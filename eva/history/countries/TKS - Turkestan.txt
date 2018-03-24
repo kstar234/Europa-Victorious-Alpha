@@ -18,12 +18,9 @@ set_politics = {
 			popularity = 68
 		}
 
-		conservative = {
-			popularity = 8
-		}
 		
 		rightwing_democrat = {
-			popularity = 8
+			popularity = 16
 		}
 
 		theocracy = {

@@ -63,7 +63,7 @@ create_import = {
 set_politics = {
 
 	parties = {
-		conservative = { 
+		rightwing_democrat = { 
 			popularity = 20
 		}
 
