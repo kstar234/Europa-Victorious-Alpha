@@ -1,0 +1,73 @@
+﻿l_english:
+ ##############COUNTRY NAME##############
+ LBA_nationalist_communist:0 "Libyan Commune"
+ LBA_nationalist_communist_DEF:0 "The Libyan Commune"
+ LBA_nationalist_communist_ADJ:0 "Libyan"
+ LBA_communism:0 "Libyan Revolutionary Republic"
+ LBA_communism_DEF:0 "Libyan RR"
+ LBA_communism_ADJ:0 "Libyan"
+ LBA_internationalism:0 "Globalist Libya"
+ LBA_internationalism_DEF:0 "Globalist Libya"
+ LBA_internationalism_ADJ:0 "Libyan"
+ LBA_socialism:0 "Libyan Socialist Republic"
+ LBA_socialism_DEF:0 "The Libyan Socialist Republic"
+ LBA_socialism_ADJ:0 "Libyan"
+ LBA_liberal:0 "Republic of Libya"
+ LBA_liberal_DEF:0 "The Republic of Libya"
+ LBA_liberal_ADJ:0 "Libyan"
+ LBA_democratic:0 "Republic of Libya"
+ LBA_democratic_DEF:0 "The Republic of Libya"
+ LBA_democratic_ADJ:0 "Libyan"
+ LBA_rightwing_democrat:0 "Republic of Libya"
+ LBA_rightwing_democrat_DEF:0 "The Republic of Libya"
+ LBA_rightwing_democrat_ADJ:0 "Libyan"
+ LBA_neutrality:0 "Senussi Order"
+ LBA_neutrality_ADJ:0 "Libyan"
+ LBA_neutrality_DEF:0 "The Senussi Order"
+ LBA_monarchist:0 "Senussi Order"
+ LBA_monarchist_ADJ:0 "Libyan"
+ LBA_monarchist_DEF:0 "The Senussi Order"
+ LBA_fascism:0 "Libyan State"
+ LBA_fascism_DEF:0 "The Libyan State"
+ LBA_fascism_ADJ:0 "Libyan"
+
+ #Egypt
+
+ EGY_nationalist_communist:0 "Egyptian Commune"
+ EGY_nationalist_communist_DEF:0 "The Egyptian Commune"
+ EGY_nationalist_communist_ADJ:0 "Egyptian"
+ EGY_communism:0 "Egyptian Revolutionary Republic"
+ EGY_communism_DEF:0 "Egyptian RR"
+ EGY_communism_ADJ:0 "Egyptian"
+ EGY_internationalism:0 "Globalist Egypt"
+ EGY_internationalism_DEF:0 "Globalist Egypt"
+ EGY_internationalism_ADJ:0 "Egyptian"
+ EGY_socialism:0 "Egyptian Socialist Republic"
+ EGY_socialism_DEF:0 "The Egyptian Socialist Republic"
+ EGY_socialism_ADJ:0 "Egyptian"
+ EGY_liberal:0 "Republic of Egypt"
+ EGY_liberal_DEF:0 "The Republic of Egypt"
+ EGY_liberal_ADJ:0 "Egyptian"
+ EGY_democratic:0 "Republic of Egypt"
+ EGY_democratic_DEF:0 "The Republic of Egypt"
+ EGY_democratic_ADJ:0 "Egyptian"
+ EGY_rightwing_democrat:0 "Republic of Egypt"
+ EGY_rightwing_democrat_DEF:0 "The Republic of Egypt"
+ EGY_rightwing_democrat_ADJ:0 "Egyptian"
+ EGY_neutrality:0 "Kingdom of Egypt"
+ EGY_neutrality_ADJ:0 "Egyptian"
+ EGY_neutrality_DEF:0 "The Kingdom of Egypt"
+ EGY_monarchist:0 "Kingdom of Egypt"
+ EGY_monarchist_ADJ:0 "Egyptian"
+ EGY_monarchist_DEF:0 "The Kingdom of Egypt"
+ EGY_fascism:0 "Egyptian State"
+ EGY_fascism_DEF:0 "The Egyptian State"
+ EGY_fascism_ADJ:0 "Egyptian"
+ 
+ #######PARTIES#######
+
+ ############EVENTS###################
+ ############FOCUSES###################
+ ############DECISIONS###############
+ ############MISC###################
+ 
