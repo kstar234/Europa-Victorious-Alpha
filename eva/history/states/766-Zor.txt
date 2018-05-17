@@ -1,0 +1,22 @@
+state={
+	id=766
+	name="STATE_766"
+	provinces={
+		1544 4440 
+	}
+	manpower=932000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	history={
+		owner = SYR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = SYR
+
+	}
+
+}

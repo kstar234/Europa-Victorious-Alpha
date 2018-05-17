@@ -1,0 +1,22 @@
+state={
+	id=765
+	name="STATE_765"
+	provinces={
+		4562 4603 11976 
+	}
+	manpower=900000
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	history={
+		owner = JAB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = JOR
+		add_core_of = JAB
+
+	}
+}
