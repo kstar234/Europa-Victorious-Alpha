@@ -29,7 +29,7 @@ autonomy_state = {
 	}
 
 	allowed = {
-		has_dlc = "Death or Dishonor"
+		always = no
 		has_government = fascism
 		if = {
 			limit = { has_dlc = "Waking the Tiger" }

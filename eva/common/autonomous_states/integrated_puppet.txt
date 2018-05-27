@@ -34,14 +34,11 @@ autonomy_state = {
 		always = yes
 	}
 
-	allowed = {
-		has_dlc = "Together for Victory"
-
-		if = {
-			limit = { has_dlc = "Death or Dishonor" }
-			NOT = { has_government = fascism }
-			NOT = { OVERLORD = { original_tag = AUS } }
-		}
+		allowed = {
+		always = yes
+		NOT = { has_government = fascism }
+		NOT = { OVERLORD = { original_tag = AUS } }
+		
 	}
 	
 	can_take_level = {
