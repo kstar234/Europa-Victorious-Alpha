@@ -21,12 +21,8 @@ set_politics = {
 			popularity = 10
 		}
 
-		rightwing_demorcat = {
-			popularity = 5
-		}
-
 		democratic = {
-			popularity = 25
+			popularity = 30
 		}
 		
 		fascism = {
