@@ -1,0 +1,40 @@
+﻿capital = 12
+
+oob = "LAT_1936"
+
+add_ideas = {
+	limited_conscription
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	early_fighter = 1
+	early_submarine = 1
+}
+
+set_research_slots = 3
+
+set_convoys = 10
+
+set_politics = {
+
+	parties = {
+		liberal = { 
+			popularity = 50
+		}
+
+		democratic = {
+			popularity = 25
+		}
+		
+		rightwing_democrat = {
+			popularity = 25
+		}
+	}
+	
+	ruling_party = liberal
+	last_election = "1931.10.3"
+	election_frequency = 108
+	elections_allowed = yes
+}

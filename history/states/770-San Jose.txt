@@ -1,0 +1,33 @@
+state={
+	id=770
+	name="STATE_770"
+	provinces={
+		610 677 768 781 3644 3677 3678 6482 6681 6694 6699 6745 6757 6772 9637 9671 9713 9730 11658 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	
+
+	
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 5
+		}
+		add_core_of = CAL
+		victory_points = {
+			9713 1 
+		}
+		victory_points = {
+			9671 25 
+		}
+
+	}
+}

@@ -1,0 +1,36 @@
+state={
+	id=768
+	name="STATE_768"
+
+	history={
+		owner = TEX
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			air_base = 3
+			4884 = {
+				naval_base = 3
+
+			}
+
+		}
+
+		victory_points = {
+			12782 1 
+		}
+
+		victory_points = {
+			10337 10 
+		}
+		
+		add_core_of = TEX
+
+	}
+
+	provinces={
+		805 1500 1927 2019 2042 4577 4884 5061 6785 6987 7628 10337 10504 12341 12369 12410 12486 12728 12782 
+	}
+	manpower=2500000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,250 @@
+﻿capital = 276
+
+oob = "PLB"
+
+set_research_slots = 3
+
+set_stability = 0.6
+set_war_support = 0.1
+
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	#improved_light_tank = 1  # PLACEHOLDER
+	#basic_heavy_tank = 1  # PLACEHOLDER
+	#basic_medium_tank = 1 # PLACEHOLDER
+	early_fighter = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	CAS1 = 1
+	early_submarine = 1
+	early_destroyer = 1
+	basic_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	early_carrier = 1
+	trench_warfare = 1
+
+	transport = 1
+	fleet_in_being = 1
+	electronic_mechanical_engineering = 1
+	radio = 1
+	radio_detection = 1
+}
+
+
+set_convoys = 80
+
+
+set_politics = {
+
+	parties = {
+		neutrality = { 
+			popularity = 60
+		}
+
+		liberal = {
+			popularity = 40
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = no ##suspended through duration of war, which is handled via event
+}
+
+
+
+create_country_leader = {
+	name = "British Parliament"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "gfx/leaders/NA/Parliament_Britain.png"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "British Parliament"
+	desc = "POLITICS_STANLEY_BALDWIN_DESC"
+	picture = "gfx/leaders/NA/Parliament_Britain.png"
+	expire = "1965.1.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
+
+
+
+create_field_marshal = {
+	name = "Alan Brooke"
+	picture = "Portrait_Britain_Alan_Brooke.dds"
+	traits = { defensive_doctrine trait_cautious career_officer }
+	skill = 5
+	attack_skill = 3
+	defense_skill = 5
+	planning_skill = 5
+	logistics_skill = 3
+}
+
+
+
+create_corps_commander = {
+	name = "Merton Beckwith-Smith"
+		picture = "Portrait_Britain_Merton_Beckwith_Smith.dds"
+	traits = { commando }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Henry Pownall"
+	picture = "Portrait_Britain_Henry_Pownall.dds"
+	traits = {  trickster }
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "John Vereker Lord Gort"
+	picture = "Portrait_Britain_John_Vereker.dds"
+	traits = { politically_connected trait_cautious }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Henry Wilson"
+		picture = "Portrait_Britain_Henry_Maitland_Wilson.dds"
+	traits = { old_guard politically_connected }
+	skill = 4
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "William Gott"
+		picture = "Portrait_Britain_William_Gott.dds"
+	traits = { armor_officer war_hero inflexible_strategist }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Jock Campbell"
+		picture = "Portrait_Britain_Jock_Campbell.dds"
+	traits = { armor_officer  }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Oliver Leese"
+	picture = "Portrait_Britain_Oliver_Leese.dds"
+	traits = {  armor_officer harsh_leader politically_connected }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Miles Dempsey"
+	picture = "Portrait_Britain_Miles_Dempsey.dds"
+	traits = { brilliant_strategist infantry_officer career_officer }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Brian Horrocks"
+	picture = "Portrait_Britain_Brian_Horrocks.dds"
+	traits = {  armor_officer career_officer war_hero }
+	skill = 3
+	
+	attack_skill = 1
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Archibald Wavell"
+	picture = "Portrait_Britain_Archibald_Wavell.dds"
+	traits = { career_officer }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 4
+}
+
+create_navy_leader = {
+	name = "James Fownes Somerville"
+		picture = "Portrait_Britain_James_Fownes_Somerville.dds"
+	traits = { superior_tactician }
+	skill = 5
+}
+
+create_navy_leader = {
+	name = "Henry Harwood"
+		picture = "Portrait_Britain_Henry_Harwood.dds"
+	traits = { old_guard_navy blockade_runner }
+	skill = 3
+}
+
+create_navy_leader = {
+	name = "Andrew Cunningham"
+		picture = "Portrait_Britain_Andrew_Cunningham.dds"
+	traits = { blockade_runner superior_tactician }
+	skill = 5
+}
+
+create_navy_leader = {
+	name = "Bruce Fraser"
+		picture = "Portrait_Britain_Bruce_Fraser.dds"
+	traits = { blockade_runner }
+	skill = 4
+}
+
+
+
+

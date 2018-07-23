@@ -1,0 +1,51 @@
+﻿capital = 585 #Baku
+
+oob = "TKS_1936"
+
+set_research_slots = 3
+
+set_stability = 0.5
+set_war_support = 0.8
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+}
+
+set_politics = {
+
+	parties = {
+		monarchist = { 
+			popularity = 68
+		}
+
+		
+		rightwing_democrat = {
+			popularity = 16
+		}
+
+		theocracy = {
+			popularity = 8
+		}
+
+		fascism = {
+			popularity = 8
+		}
+	}
+	
+	ruling_party = monarchist
+	last_election = "1931.10.3"
+	election_frequency = 108
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Said Mir Mohammed Alim Khan"
+	desc = ""
+	picture = "gfx/leaders/China/Alim_Turkestan.png"
+	expire = "1965.1.1"
+	ideology = absolute_monarchist
+	traits = {
+		spirit_of_genghis
+	}
+}
+
